@@ -10,6 +10,8 @@ This is a conglomerate of different scripts I created over time to full fill spe
 
 ## Update history ##
 
+- `set-permissions.sh`: added new script
+- `clean-mac-data.sh`: added error handling for commandline arguments (now filters out non-directories)
 - Initial setup
 
 ## Contribute ##
